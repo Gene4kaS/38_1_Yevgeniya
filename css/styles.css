@@ -110,14 +110,14 @@ h3, p {
     justify-content: center;
     align-items: center;
 }
-.advantages-item .text {
+.advantages-text {
     font-family: var(--text-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.3;
 }
-.advantages-item .title {
+.advantages-title {
     font-family: var(--titles-font-family);
     font-style: normal;
     font-weight: bold;
